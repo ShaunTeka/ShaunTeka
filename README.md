@@ -76,14 +76,17 @@ I am passionate about designing, securing, and managing modern cloud environment
 - BCom Law
 
 ---
-
 ## 📜 Certifications
 
-- [Microsoft Certified: Azure Fundementals (AZ-900) *(Passed)*](https://learn.microsoft.com/en-us/users/ShaunMonwabisiTeka/credentials/43AC9A17FCE7992B?ref=https%3a%2f%2fwww.linkedin.com%2f)
-- [Microsoft Certified: Azure Artificial Fundamentals (AZ-901) *(Passed)*](https://learn.microsoft.com/en-us/users/ShaunMonwabisiTeka/credentials/3F151AB6A62159B0?ref=https%3a%2f%2fwww.linkedin.com%2f)
-- [Microsoft Certified: Azure Administrator Associate (AZ-104) *(Passed)*](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/credentials/2eaca8f4a6714847?ref=https%3A%2F%2Fwww.linkedin.com%2F)
-- [Microsoft Certified: Azure Solutions Architect Expert (AZ-305) *(Passed)*](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/training?ref=https%3A%2F%2Fwww.linkedin.com%2F&source=docs)
-- [Microsoft Certified: Azure DevOps Engineer Expert (AZ-400) *(Passed)*](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/training?ref=https%3A%2F%2Fwww.linkedin.com%2F&source=docs)
+| Certification | Provider | Status | Verify |
+|---|---|---|---|
+| Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | ✅ Passed | [Verify ↗]([YOUR-CREDENTIAL-LINK](https://learn.microsoft.com/en-us/users/ShaunMonwabisiTeka/credentials/43AC9A17FCE7992B?ref=https%3a%2f%2fwww.linkedin.com%2f)) |
+| Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | ✅ Passed | [Verify ↗]([YOUR-CREDENTIAL-LINK](https://learn.microsoft.com/en-us/users/ShaunMonwabisiTeka/credentials/3F151AB6A62159B0?ref=https%3a%2f%2fwww.linkedin.com%2f)) |
+| Microsoft Certified: Azure Administrator Associate (AZ-104) | Microsoft | ✅ Passed | [Verify ↗]([YOUR-CREDENTIAL-LINK](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/credentials/2eaca8f4a6714847?ref=https%3A%2F%2Fwww.linkedin.com%2F)) |
+| Microsoft Certified: Azure Solutions Architect Expert (AZ-305) | Microsoft | ✅ Passed | [Verify ↗]([YOUR-CREDENTIAL-LINK](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/training?ref=https%3A%2F%2Fwww.linkedin.com%2F&source=docs)) |
+| Microsoft Certified: DevOps Engineer Expert (AZ-400) | Microsoft | ✅ Passed | [Verify ↗]([YOUR-CREDENTIAL-LINK](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/training?ref=https%3A%2F%2Fwww.linkedin.com%2F&source=docs)) |
+
+
 
 ---
 
