@@ -18,9 +18,11 @@
 
 ## 👨🏽‍💻 About Me
 
-I am an IT and Cybersecurity professional with experience across Cloud Infrastructure, Security Operations, Systems Administration, and Enterprise Infrastructure Support.
+---
 
-I am passionate about designing, securing, and managing modern cloud environments while continuously building practical cybersecurity expertise through hands-on labs, threat hunting, and real-world security simulations. My focus includes leveraging Microsoft cloud and security technologies to strengthen security posture, improve resilience, and support secure infrastructure operations.
+I am an **Azure Cloud, Infrastructure & Cybersecurity professional** focused on designing, securing, automating, and managing modern cloud environments. My experience spans **Cloud Infrastructure, Systems Administration, Security Operations, and Enterprise Infrastructure Support**, with a growing focus on **DevSecOps and secure cloud engineering**.
+
+I build practical expertise through **hands-on Azure projects, infrastructure labs, PowerShell automation, identity and access management, networking, threat hunting, and security simulations**. My focus is on using **Microsoft Azure, Microsoft Entra ID, Azure RBAC, PowerShell, Active Directory, and Microsoft security technologies** to strengthen security posture, improve operational resilience, and integrate security throughout the infrastructure lifecycle.
 
 ---
 
