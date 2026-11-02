@@ -32,7 +32,7 @@ devsecops:  Secure by Design | Automate | Monitor
 ---
 
 ## 🎯 Core Focus Areas
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0b0d11?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0b0d11?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 - Security Operations Center (SOC)
 - Threat Hunting & Detection Engineering
 - Microsoft Sentinel (SIEM)
