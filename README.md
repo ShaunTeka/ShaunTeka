@@ -86,7 +86,7 @@ I am passionate about designing, securing, and managing modern cloud environment
 | Microsoft Certified: Azure Solutions Architect Expert (AZ-305) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/training?ref=https%3A%2F%2Fwww.linkedin.com%2F&source=docs) |
 | Microsoft Certified: DevOps Engineer Expert (AZ-400) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/training?ref=https%3A%2F%2Fwww.linkedin.com%2F&source=docs) |
 | Google Advanced Data Analytics | Google · Coursera | ✅ Passed | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/9G9QUUMAESKX)|
-| Google Business Intelligence | Google · Coursera | ✅ Passed | [Verify ↗] (https://www.coursera.org/account/accomplishments/verify/HBDTHKYYXV3F)|
+| Google Business Intelligence | Google · Coursera | ✅ Passed | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/HBDTHKYYXV3F)|
 
 
 ---
