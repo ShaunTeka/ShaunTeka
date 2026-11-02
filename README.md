@@ -20,10 +20,7 @@
 
 ---
 
-Azure and cybersecurity professional building **secure cloud infrastructure through automation, identity, monitoring, and security-by-design**. My hands-on work spans Azure administration, infrastructure engineering, security operations, and DevSecOps. 
-
-```yaml profile: cloud: "Microsoft Azure" infrastructure: "VMs | VNets | NSGs | Monitoring" identity: "Entra ID | RBAC | Active Directory" automation: "PowerShell" security: "Defender | SOC | Threat Hunting" devsecops: "Secure by Design | Automate | Monitor" mindset: "Learn → Build → Secure → Automate"
-
+Azure and cybersecurity professional building **secure cloud infrastructure through automation, identity, monitoring, and security-by-design**. My hands-on work spans Azure administration, infrastructure engineering, security operations, and DevSecOps. ```yaml profile: cloud: "Microsoft Azure" infrastructure: "VMs | VNets | NSGs | Monitoring" identity: "Entra ID | RBAC | Active Directory" automation: "PowerShell" security: "Defender | SOC | Threat Hunting" devsecops: "Secure by Design | Automate | Monitor" mindset: "Learn → Build → Secure → Automate"
 ---
 
 ## 🎯 Core Focus Areas
