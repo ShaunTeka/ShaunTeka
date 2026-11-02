@@ -59,21 +59,21 @@ devsecops:  Secure by Design | Automate | Monitor
 
 <br>
 
-### ☁️ Cloud & Identity Security
+### Cloud & Identity Security
 
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]([https://github.com/ShaunTeka/active-directory-lab](https://github.com/ShaunTeka/cybersecurity-portfolio-)
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/ShaunTeka/cybersecurity-portfolio)
  
 `Azure` `Cloud Security` `RBAC` `NSG`
 
 <br>
 
-[![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](ShaunTeka/active-directory-lab)
+[![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ShaunTeka/active-directory-lab)
 
 `Active Directory` `Windows Server` `Identity` `PowerShell`
 
 <br>
 
-### 🔎 Detection & Investigation
+### Detection & Investigation
 
 [![SOC](https://img.shields.io/badge/SOC%20Analysis-1F6FEB?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com/ShaunTeka/cybersecurity-portfolio)
  
