@@ -47,7 +47,7 @@ devsecops:  Secure by Design | Automate | Monitor
 
 ### Security Operations
 
-[![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]([YOUR-SENTINEL-LAB-LINK](https://github.com/ShaunTeka/soc-analyst-lab)
+[![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/ShaunTeka/soc-analyst-lab)
  
 `KQL` `Threat Hunting` `MITRE ATT&CK` `Detection Engineering`
 
