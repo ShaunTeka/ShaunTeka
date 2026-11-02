@@ -40,45 +40,7 @@ devsecops:  Secure by Design | Automate | Monitor
 - Azure Security & Cloud Protection
 - Identity & Access Management (IAM)
 - Incident Detection & Response
----
----
 
-## 03 — Technical Stack
-
-### ☁️ Cloud & Infrastructure
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure VMs](https://img.shields.io/badge/Azure_VMs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### 🔐 Identity & Access
-
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-5E5EED?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### 🛡️ Security & SecOps
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Defender XDR](https://img.shields.io/badge/Defender_XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge)
-
-### ⚙️ Automation & DevSecOps
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-### 📊 Data & Reporting
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
 ---
 
 ## 🚀 Featured Projects
@@ -93,34 +55,40 @@ devsecops:  Secure by Design | Automate | Monitor
 
 ## 🛠️ Tools & Technologies
 
-### Security
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Defender XDR](https://img.shields.io/badge/Defender%20XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Defender for Endpoint](https://img.shields.io/badge/Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-5E5EED?style=for-the-badge&logo=microsoft&logoColor=white)
-
 ### Cloud & Infrastructure
 
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Arc](https://img.shields.io/badge/Azure%20Arc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![Virtual Machines](https://img.shields.io/badge/Azure%20VMs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure VMs](https://img.shields.io/badge/Azure_VMs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### Identity & Access
+
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-5E5EED?style=for-the-badge&logo=microsoft&logoColor=white)
+![Azure RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### Security & SecOps
+
+![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![Defender XDR](https://img.shields.io/badge/Defender_XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge)
 
 ### Automation & DevSecOps
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
-### Security Operations
+### Data & Reporting
 
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E34F26?style=for-the-badge&logoColor=white)
-![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-6A5ACD?style=for-the-badge)
-![Log Analysis](https://img.shields.io/badge/Log%20Analysis-00897B?style=for-the-badge)
-![Incident Investigation](https://img.shields.io/badge/Incident%20Investigation-C62828?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
 
 ---
 ## 📜 Certifications
