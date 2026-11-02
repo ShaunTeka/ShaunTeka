@@ -21,12 +21,14 @@
 ---
 
 Azure, infrastructure, and cybersecurity professional focused on **secure cloud engineering, automation, identity, and DevSecOps**.
+```yaml
 
 cloud:      Azure | VMs | VNets | NSGs | Azure Monitor
 identity:   Entra ID | RBAC | Active Directory
 automation: PowerShell | Azure Automation
 security:   Defender | SOC | Threat Hunting
 devsecops:  Secure by Design | Automate | Monitor
+```
 ---
 
 ## 🎯 Core Focus Areas
