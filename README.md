@@ -3,12 +3,6 @@
 </p>
 
 <br>
-# Hi, I'm Shaun Monwabisi Teka 👋🏾
-
-Building Hands-On Cloud Projects
-
-## 🔐 Infrastructure & Cybersecurity Engineer
-# Hi, I'm Shaun Monwabisi Teka 👋🏽
 azure-profile-banner.png
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&width=650&lines=Azure+Cloud+%26+Infrastructure;Microsoft+Entra+ID+%26+RBAC;Active+Directory+%26+PowerShell;Cloud+Networking+%26+Security;Cybersecurity+%26+SOC+Projects;Building+Hands-On+Cloud+Projects)](https://git.io/typing-svg)
 ## 🔐 Infrastructure & Cybersecurity Engineer 
