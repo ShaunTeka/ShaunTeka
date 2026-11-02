@@ -56,14 +56,14 @@ devsecops:  Secure by Design | Automate | Monitor
 
 ## 🛠️ Tools & Technologies
 
-### 🛡️ Security
+### Security
 
 ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Defender XDR](https://img.shields.io/badge/Defender%20XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Defender for Endpoint](https://img.shields.io/badge/Defender%20for%20Endpoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-5E5EED?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### ☁️ Cloud & Infrastructure
+### Cloud & Infrastructure
 
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Arc](https://img.shields.io/badge/Azure%20Arc-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -71,41 +71,19 @@ devsecops:  Secure by Design | Automate | Monitor
 ![Virtual Machines](https://img.shields.io/badge/Azure%20VMs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-### ⚙️ Automation & DevSecOps
+### Automation & DevSecOps
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### 🔎 Security Operations
+### Security Operations
 
 ![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E34F26?style=for-the-badge&logoColor=white)
 ![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-6A5ACD?style=for-the-badge)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-00897B?style=for-the-badge)
 ![Incident Investigation](https://img.shields.io/badge/Incident%20Investigation-C62828?style=for-the-badge)
-
----
-## 🛠️ Tools & Technologies
-
-**Security**
-- Microsoft Sentinel
-- Microsoft Defender XDR
-- Microsoft Defender for Endpoint
-- Microsoft Entra ID
-
-**Cloud & Infrastructure**
-- Microsoft Azure
-- Azure Arc
-- Windows Server
-- Virtual Machines
-
-**Security Operations**
-- Kusto Query Language (KQL)
-- MITRE ATT&CK Framework
-- Log Analysis
-- Threat Hunting
-- Incident Investigation
 
 ---
 ## 📜 Certifications
