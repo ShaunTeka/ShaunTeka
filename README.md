@@ -6,7 +6,6 @@
 
 <br>
 
-<h1 align="center">Hi 👋, I'm Shaun Monwabisi Teka</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,8 +13,7 @@
          alt="Typing SVG">
   </a>
 </p>
-
-## 🔐 Infrastructure & Cybersecurity Engineer 
+ 
 ---
 
 ## 👨🏽‍💻 About Me
