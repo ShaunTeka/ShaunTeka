@@ -42,6 +42,50 @@ devsecops:  Secure by Design | Automate | Monitor
 - Incident Detection & Response
 
 ---
+---
+
+## 🚀 Featured Projects
+
+### 🛡️ Security Operations
+
+[![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](YOUR-SENTINEL-LAB-LINK)
+
+**[Threat Hunting & Command-and-Control Detection Lab](YOUR-SENTINEL-LAB-LINK)**  
+`KQL` `Threat Hunting` `MITRE ATT&CK` `Detection Engineering`
+
+<br>
+
+[![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](YOUR-DEFENDER-LAB-LINK)
+
+**[Microsoft Defender for Endpoint Lab](YOUR-DEFENDER-LAB-LINK)**  
+`Endpoint Security` `Detection` `Investigation` `Threat Protection`
+
+<br>
+
+### ☁️ Cloud & Identity Security
+
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](YOUR-AZURE-SECURITY-LINK)
+
+**[Azure Security Lab](YOUR-AZURE-SECURITY-LINK)**  
+`Azure` `Cloud Security` `RBAC` `NSG`
+
+<br>
+
+[![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](YOUR-AD-LAB-LINK)
+
+**[Active Directory Security Lab](YOUR-AD-LAB-LINK)**  
+`Active Directory` `Windows Server` `Identity` `PowerShell`
+
+<br>
+
+### 🔎 Detection & Investigation
+
+[![SOC](https://img.shields.io/badge/SOC%20Analysis-1F6FEB?style=for-the-badge&logo=securityscorecard&logoColor=white)](YOUR-SOC-LAB-LINK)
+
+**[SOC Analyst Detection & Investigation Lab](YOUR-SOC-LAB-LINK)**  
+`SIEM` `Log Analysis` `Incident Investigation` `Threat Hunting`
+
+---
 
 ## 🚀 Featured Projects
 
