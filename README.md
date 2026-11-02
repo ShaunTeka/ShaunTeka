@@ -104,7 +104,7 @@ devsecops:  Secure by Design | Automate | Monitor
 |---|---|
 | **Professional** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunmonwabisiteka) |
 | **Cloud & Credentials** | [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258FFA?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/) |
-| **Code & Projects** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](YOUR-GITHUB-URL) |
+| **Code & Projects** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShaunTeka) |
 | **Cybersecurity** | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](YOUR-TRYHACKME-URL) |
 | **Contact** | [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:shaunmonwabisiteka@gmail.com) |
 
