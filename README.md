@@ -68,14 +68,6 @@ I am passionate about designing, securing, and managing modern cloud environment
 - Incident Investigation
 
 ---
-
-## 🎓 Education
-
-- BSc Information Technology
-- BSc Honours Information Technology
-- BCom Law
-
----
 ## 📜 Certifications
 
 | Certification | Provider | Status | Verify |
