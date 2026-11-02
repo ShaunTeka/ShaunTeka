@@ -53,9 +53,8 @@ devsecops:  Secure by Design | Automate | Monitor
 
 <br>
 
-[![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](YOUR-DEFENDER-LAB-LINK)
-
-**[Microsoft Defender for Endpoint Lab](YOUR-DEFENDER-LAB-LINK)**  
+[![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ShaunTeka/soc-analyst-lab/tree/main/microsoft-defender-endpoint-lab)
+ 
 `Endpoint Security` `Detection` `Investigation` `Threat Protection`
 
 <br>
