@@ -32,7 +32,7 @@ devsecops:  Secure by Design | Automate | Monitor
 ---
 
 ## 🎯 Core Focus Areas
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0b0d11?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+
 - Security Operations Center (SOC)
 - Threat Hunting & Detection Engineering
 - Microsoft Sentinel (SIEM)
@@ -42,13 +42,12 @@ devsecops:  Secure by Design | Automate | Monitor
 - Incident Detection & Response
 
 ---
----
 
 ## 🚀 Featured Projects
 
 ### Security Operations
 
-[![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](YOUR-SENTINEL-LAB-LINK)
+[![Microsoft Sentinel](https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]([YOUR-SENTINEL-LAB-LINK](https://github.com/ShaunTeka/soc-analyst-lab)
 
 **[Threat Hunting & Command-and-Control Detection Lab](https://github.com/ShaunTeka/soc-analyst-lab)**  
 `KQL` `Threat Hunting` `MITRE ATT&CK` `Detection Engineering`
