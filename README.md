@@ -90,7 +90,15 @@ I am passionate about designing, securing, and managing modern cloud environment
 
 
 ---
+## 🎓 Education
 
+| Period | Institution | Qualification / Program |
+|---|---|---|
+| 2024 – 2025 | Richfield Graduate Institute of Technology | Bachelor of Science Honours in Information Technology|
+| 2020 – 2022 | Richfield Graduate Institute of Technology | Bachelor of Science in Information Technology |
+| 2023 – 2026 | University of South Africa | Bachelor of Commerce in Law |
+
+---
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/shaunmonwabisiteka
