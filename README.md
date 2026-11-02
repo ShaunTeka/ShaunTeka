@@ -1,10 +1,20 @@
 <p align="center">
-  <img src="./azure-profile-banner.png" alt="Shaun Monwabisi Teka - Azure Cloud Profile Banner" width="100%">
+  <img src="./azure-profile-banner.png" 
+       alt="Shaun Monwabisi Teka - Azure Cloud, Infrastructure and Cybersecurity" 
+       width="100%">
 </p>
 
 <br>
-azure-profile-banner.png
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&width=650&lines=Azure+Cloud+%26+Infrastructure;Microsoft+Entra+ID+%26+RBAC;Active+Directory+%26+PowerShell;Cloud+Networking+%26+Security;Cybersecurity+%26+SOC+Projects;Building+Hands-On+Cloud+Projects)](https://git.io/typing-svg)
+
+<h1 align="center">Hi 👋, I'm Shaun Monwabisi Teka</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&width=650&lines=Azure+Cloud+%26+Infrastructure;Microsoft+Entra+ID+%26+RBAC;Active+Directory+%26+PowerShell;Cloud+Networking+%26+Security;Cybersecurity+%26+SOC+Projects;Building+Hands-On+Cloud+Projects"
+         alt="Typing SVG">
+  </a>
+</p>
+
 ## 🔐 Infrastructure & Cybersecurity Engineer 
 ---
 
