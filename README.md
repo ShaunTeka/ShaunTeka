@@ -61,25 +61,22 @@ devsecops:  Secure by Design | Automate | Monitor
 
 ### ☁️ Cloud & Identity Security
 
-[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](YOUR-AZURE-SECURITY-LINK)
-
-**[Azure Security Lab](YOUR-AZURE-SECURITY-LINK)**  
+[![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]([https://github.com/ShaunTeka/active-directory-lab](https://github.com/ShaunTeka/cybersecurity-portfolio-)
+ 
 `Azure` `Cloud Security` `RBAC` `NSG`
 
 <br>
 
-[![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](YOUR-AD-LAB-LINK)
+[![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](ShaunTeka/active-directory-lab)
 
-**[Active Directory Security Lab](YOUR-AD-LAB-LINK)**  
 `Active Directory` `Windows Server` `Identity` `PowerShell`
 
 <br>
 
 ### 🔎 Detection & Investigation
 
-[![SOC](https://img.shields.io/badge/SOC%20Analysis-1F6FEB?style=for-the-badge&logo=securityscorecard&logoColor=white)](YOUR-SOC-LAB-LINK)
-
-**[SOC Analyst Detection & Investigation Lab](YOUR-SOC-LAB-LINK)**  
+[![SOC](https://img.shields.io/badge/SOC%20Analysis-1F6FEB?style=for-the-badge&logo=securityscorecard&logoColor=white)](https://github.com/ShaunTeka/cybersecurity-portfolio)
+ 
 `SIEM` `Log Analysis` `Incident Investigation` `Threat Hunting`
 
 ---
