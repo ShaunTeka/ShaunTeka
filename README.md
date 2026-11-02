@@ -20,9 +20,9 @@
 
 ---
 
-I am an **Azure Cloud, Infrastructure & Cybersecurity professional** focused on designing, securing, automating, and managing modern cloud environments. My experience spans **Cloud Infrastructure, Systems Administration, Security Operations, and Enterprise Infrastructure Support**, with a growing focus on **DevSecOps and secure cloud engineering**.
+Azure and cybersecurity professional building **secure cloud infrastructure through automation, identity, monitoring, and security-by-design**. My hands-on work spans Azure administration, infrastructure engineering, security operations, and DevSecOps. 
 
-I build practical expertise through **hands-on Azure projects, infrastructure labs, PowerShell automation, identity and access management, networking, threat hunting, and security simulations**. My focus is on using **Microsoft Azure, Microsoft Entra ID, Azure RBAC, PowerShell, Active Directory, and Microsoft security technologies** to strengthen security posture, improve operational resilience, and integrate security throughout the infrastructure lifecycle.
+```yaml profile: cloud: "Microsoft Azure" infrastructure: "VMs | VNets | NSGs | Monitoring" identity: "Entra ID | RBAC | Active Directory" automation: "PowerShell" security: "Defender | SOC | Threat Hunting" devsecops: "Secure by Design | Automate | Monitor" mindset: "Learn → Build → Secure → Automate"
 
 ---
 
