@@ -31,18 +31,6 @@ devsecops:  Secure by Design | Automate | Monitor
 ```
 ---
 
-## 🎯 Core Focus Areas
-
-- Security Operations Center (SOC)
-- Threat Hunting & Detection Engineering
-- Microsoft Sentinel (SIEM)
-- Microsoft Defender XDR
-- Azure Security & Cloud Protection
-- Identity & Access Management (IAM)
-- Incident Detection & Response
-
----
-
 ## 🚀 Featured Projects
 
 ### Security Operations
