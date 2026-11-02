@@ -81,16 +81,6 @@ devsecops:  Secure by Design | Automate | Monitor
 
 ---
 
-## 🚀 Featured Projects
-
-- 🔵[Microsoft Sentinel Threat Hunting & Command-and-Control Detection Lab](https://github.com/ShaunTeka/soc-analyst-lab)
-- 🛡️ [Microsoft Defender for Endpoint Lab](https://github.com/ShaunTeka/soc-analyst-lab/tree/main/microsoft-defender-endpoint-lab)
-- 🏢 [Active Directory Security Lab](https://github.com/ShaunTeka/active-directory-lab)
-- ☁️ [Azure Security Lab](https://github.com/ShaunTeka/cybersecurity-portfolio-)
-- 🔍 [SOC Analyst Detection & Investigation Lab](https://github.com/ShaunTeka/cybersecurity-portfolio)
-
----
-
 ## 🛠️ Tools & Technologies
 
 ### Cloud & Infrastructure
