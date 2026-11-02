@@ -105,5 +105,16 @@ devsecops:  Secure by Design | Automate | Monitor
 
 ---
 
+## 06 — Find me online
+
+| Purpose | Profiles |
+|---|---|
+| **Professional** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](YOUR-LINKEDIN-URL) |
+| **Cloud & Credentials** | [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258FFA?style=flat&logo=microsoft&logoColor=white)](YOUR-MICROSOFT-LEARN-URL) |
+| **Code & Projects** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](YOUR-GITHUB-URL) |
+| **Cybersecurity** | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](YOUR-TRYHACKME-URL) |
+| **Contact** | [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:YOUR-EMAIL) |
+
+---
 > “Building real-world cloud, infrastructure and cybersecurity skills through hands-on experience, continuous learning, and practical operations exposure.”
 
