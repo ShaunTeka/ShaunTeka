@@ -128,6 +128,8 @@ devsecops:  Secure by Design | Automate | Monitor
 ---
 ## 📜 Certifications
 
+7 verified credentials across cloud, AI, architecture, DevOps, data analytics, and business intelligence — each linked directly to its issuer verification.
+
 | Certification | Provider | Status | Verify |
 |---|---|---|---|
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/en-us/users/ShaunMonwabisiTeka/credentials/43AC9A17FCE7992B?ref=https%3a%2f%2fwww.linkedin.com%2f) |
