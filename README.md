@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="8D#-about-me">About</a>•
+  <a href="#-about-me">About</a>•
   <a href="#-featured-projects">Projects</a> •
   <a href="#-technical-stack">Technical Stack</a>•
   <a href="#-certifications">Certifications</a> •
