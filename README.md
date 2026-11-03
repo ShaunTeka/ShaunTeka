@@ -135,12 +135,13 @@ devsecops:  Secure by Design | Automate | Monitor
 | Purpose | Profiles |
 |---|---|
 
+| Purpose | Profiles |
+|:---|:---|
 | **Career** | <a href="https://www.linkedin.com/in/shaunmonwabisiteka"><img src="./assets/linkedin.svg" alt="LinkedIn" height="20"></a> |
-| **Cloud & Credentials** | [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258FFA?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/) |
-| **Code & Projects** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShaunTeka) |
-| **Cybersecurity** | [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat&logo=tryhackme&logoColor=white)](YOUR-TRYHACKME-URL) |
-| **Contact** | [![Email](https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:shaunmonwabisiteka@gmail.com) |
-
+| **Cloud & Credentials** | <a href="https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/"><img src="./assets/microsoft-learn.svg" alt="Microsoft Learn" height="20"></a> |
+| **Code & Projects** | <a href="https://github.com/ShaunTeka"><img src="./assets/github.svg" alt="GitHub" height="20"></a> |
+| **Cybersecurity** | <a href="YOUR-TRYHACKME-URL"><img src="./assets/tryhackme.svg" alt="TryHackMe" height="20"></a> |
+| **Contact** | <a href="mailto:shaunmonwabisiteka@gmail.com"><img src="./assets/email.svg" alt="Email" height="20"></a> |
 ---
 > “Building real-world cloud, infrastructure and cybersecurity skills through hands-on experience, continuous learning, and practical operations exposure.”
 
