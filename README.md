@@ -105,7 +105,61 @@ devsecops:  Secure by Design | Automate | Monitor
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
+## 🧰 Technical Stack
 
+### ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="./assets/tech/azure.svg" alt="Microsoft Azure" height="28">
+  &nbsp;
+  <img src="./assets/tech/azure-vms.svg" alt="Azure VMs" height="28">
+  &nbsp;
+  <img src="./assets/tech/azure-monitor.svg" alt="Azure Monitor" height="28">
+  &nbsp;
+  <img src="./assets/tech/windows-server.svg" alt="Windows Server" height="28">
+</p>
+
+### 🔐 Identity & Access
+
+<p>
+  <img src="./assets/tech/entra-id.svg" alt="Microsoft Entra ID" height="28">
+  &nbsp;
+  <img src="./assets/tech/azure-rbac.svg" alt="Azure RBAC" height="28">
+  &nbsp;
+  <img src="./assets/tech/active-directory.svg" alt="Active Directory" height="28">
+</p>
+
+### 🛡️ Security & SecOps
+
+<p>
+  <img src="./assets/tech/sentinel.svg" alt="Microsoft Sentinel" height="28">
+  &nbsp;
+  <img src="./assets/tech/defender.svg" alt="Microsoft Defender" height="28">
+  &nbsp;
+  <img src="./assets/tech/kql.svg" alt="KQL" height="28">
+  &nbsp;
+  <img src="./assets/tech/mitre-attack.svg" alt="MITRE ATT&CK" height="28">
+</p>
+
+### ⚙️ Automation & DevOps
+
+<p>
+  <img src="./assets/tech/powershell.svg" alt="PowerShell" height="28">
+  &nbsp;
+  <img src="./assets/tech/git.svg" alt="Git" height="28">
+  &nbsp;
+  <img src="./assets/tech/github.svg" alt="GitHub" height="28">
+  &nbsp;
+  <img src="./assets/tech/azure-devops.svg" alt="Azure DevOps" height="28">
+</p>
+
+### 📊 Data & Analytics
+
+<p>
+  <img src="./assets/tech/power-bi.svg" alt="Power BI" height="28">
+  &nbsp;
+  <img src="./assets/tech/dax.svg" alt="DAX" height="28">
+</p>
 ---
 ## 📜 Certifications
 
