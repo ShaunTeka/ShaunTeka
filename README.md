@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <a href="YOUR-LINKEDIN-LINK"><img src="./assets/linkedin.svg" alt="LinkedIn" height="28" align="middle"></a>&nbsp;&nbsp;
-  <a href="YOUR-MICROSOFT-LEARN-LINK"><img src="./assets/microsoft-learn.svg" alt="Microsoft Learn" height="28" align="middle"></a>&nbsp;&nbsp;
-  <a href="YOUR-GITHUB-LINK"><img src="./assets/github.svg" alt="GitHub" height="28" align="middle"></a>&nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL"><img src="./assets/email.svg" alt="Email" height="28" align="middle"></a>
+  <a href="https://www.linkedin.com/in/shaunmonwabisiteka"><img src="./assets/linkedin.svg" alt="LinkedIn" height="28" align="middle"></a>&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/"><img src="./assets/microsoft-learn.svg" alt="Microsoft Learn" height="28" align="middle"></a>&nbsp;&nbsp;
+  <a href="https://github.com/ShaunTeka"><img src="./assets/github.svg" alt="GitHub" height="28" align="middle"></a>&nbsp;&nbsp;
+  <a href="mailto:shaunmonwabisiteka@gmail.com"><img src="./assets/email.svg" alt="Email" height="28" align="middle"></a>
 </p>
 
 <p align="center">
