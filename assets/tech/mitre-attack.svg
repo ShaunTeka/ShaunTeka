@@ -1,14 +1,14 @@
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="145"
+     width="148"
      height="28"
-     viewBox="0 0 145 28"
+     viewBox="0 0 148 28"
      role="img"
      aria-label="MITRE ATT&CK">
 
   <!-- Background -->
-  <rect width="145" height="28" rx="3" fill="#1F1F1F"/>
+  <rect width="148" height="28" rx="3" fill="#1F1F1F"/>
 
-  <!-- ATT&CK-inspired matrix symbol -->
+  <!-- Matrix-inspired mark -->
   <rect x="7" y="6" width="5" height="5" rx="0.5" fill="#E53935"/>
   <rect x="13" y="6" width="5" height="5" rx="0.5" fill="#E53935"/>
   <rect x="19" y="6" width="5" height="5" rx="0.5" fill="#E53935"/>
@@ -21,7 +21,7 @@
   <rect x="13" y="18" width="5" height="4" rx="0.5" fill="#E53935"/>
   <rect x="19" y="18" width="5" height="4" rx="0.5" fill="#E53935"/>
 
-  <!-- Text -->
+  <!-- ATT&CK text -->
   <text x="32"
         y="18"
         font-family="Arial, Helvetica, sans-serif"
