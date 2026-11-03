@@ -13,12 +13,33 @@
          alt="Typing SVG">
   </a>
 </p>
+
+<p align="center">
+ Hands-on cloud engineering focused on building, securing, monitoring, and automating Microsoft Azure environments.
+</p>
+
+<p align="center">
+  <a href="YOUR-LINKEDIN-LINK"><img src="./assets/linkedin.svg" alt="LinkedIn" height="28" align="middle"></a>&nbsp;&nbsp;
+  <a href="YOUR-MICROSOFT-LEARN-LINK"><img src="./assets/microsoft-learn.svg" alt="Microsoft Learn" height="28" align="middle"></a>&nbsp;&nbsp;
+  <a href="YOUR-GITHUB-LINK"><img src="./assets/github.svg" alt="GitHub" height="28" align="middle"></a>&nbsp;&nbsp;
+  <a href="mailto:YOUR-EMAIL"><img src="./assets/email.svg" alt="Email" height="28" align="middle"></a>
+</p>
+
+<p align="center">
+  <a href="8D#-about-me">About</a>•
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-technical-stack">Technical Stack</a>•
+  <a href="#-certifications">Certifications</a> •
+  <a href="#-education">Education</a> •
+  <a href="#-connect-with-me">Connect With Me</a>
+</p>
+
+<br>
  
 ---
-
 ## 👨🏽‍💻 About Me
 
----
+
 
 Azure, infrastructure, and cybersecurity professional focused on **secure cloud engineering, automation, identity, and DevSecOps**.
 ```yaml
@@ -29,8 +50,8 @@ automation: PowerShell | Azure Automation
 security:   Defender | SOC | Threat Hunting
 devsecops:  Secure by Design | Automate | Monitor
 ```
----
 
+---
 ## 🚀 Featured Projects
 
 ### Security Operations
