@@ -68,43 +68,6 @@ devsecops:  Secure by Design | Automate | Monitor
 `SIEM` `Log Analysis` `Incident Investigation` `Threat Hunting`
 
 ---
-
-## 🛠️ Tools & Technologies
-
-### Cloud & Infrastructure
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure VMs](https://img.shields.io/badge/Azure_VMs-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-### Identity & Access
-
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-5E5EED?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure RBAC](https://img.shields.io/badge/Azure_RBAC-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-
-### Security & SecOps
-
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![Defender XDR](https://img.shields.io/badge/Defender_XDR-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge)
-
-### Automation & DevSecOps
-
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
-
-### Data & Reporting
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
 ## 🧰 Technical Stack
 
 ### Cloud & Infrastructure
@@ -138,7 +101,8 @@ devsecops:  Secure by Design | Automate | Monitor
   &nbsp;
   <img src="./assets/tech/kql.svg" alt="KQL" height="28">
   &nbsp;
- ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-ED1C24?style=for-the-badge)
+  <img src="./assets/tech/mitre-attack.svg" alt="MITRE ATT&CK" height="28">
+   &nbsp;
 </p>
 
 ### Automation & DevOps
@@ -160,6 +124,7 @@ devsecops:  Secure by Design | Automate | Monitor
   &nbsp;
   <img src="./assets/tech/dax.svg" alt="DAX" height="28">
 </p>
+
 ---
 ## 📜 Certifications
 
