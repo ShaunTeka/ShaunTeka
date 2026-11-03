@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="180"
+     height="28"
+     viewBox="0 0 180 28"
+     role="img"
+     aria-label="Microsoft Defender">
+
+  <!-- Background -->
+  <rect width="180" height="28" rx="3" fill="#0078D4"/>
+
+  <!-- Defender-style shield -->
+  <path d="M16 4
+           L25 7
+           V13
+           C25 18.5 21.5 22 16 24
+           C10.5 22 7 18.5 7 13
+           V7
+           Z"
+        fill="#FFFFFF"/>
+
+  <!-- Inner shield detail -->
+  <path d="M16 7
+           V20
+           C19.5 18.5 22 16 22 12
+           V9
+           Z"
+        fill="#0078D4"/>
+
+  <!-- Text -->
+  <text x="34"
+        y="18"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        font-weight="700"
+        fill="#FFFFFF">
+    MICROSOFT DEFENDER
+  </text>
+
+</svg>

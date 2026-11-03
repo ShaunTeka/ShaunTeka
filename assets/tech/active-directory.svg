@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="165"
+     height="28"
+     viewBox="0 0 165 28"
+     role="img"
+     aria-label="Active Directory">
+
+  <!-- Background -->
+  <rect width="165" height="28" rx="3" fill="#0078D4"/>
+
+  <!-- Directory / hierarchy icon -->
+  <circle cx="16" cy="7" r="3" fill="#FFFFFF"/>
+
+  <circle cx="10" cy="19" r="3" fill="#FFFFFF"/>
+  <circle cx="22" cy="19" r="3" fill="#FFFFFF"/>
+
+  <!-- Hierarchy connections -->
+  <line x1="16"
+        y1="10"
+        x2="16"
+        y2="14"
+        stroke="#FFFFFF"
+        stroke-width="1.5"/>
+
+  <line x1="10"
+        y1="14"
+        x2="22"
+        y2="14"
+        stroke="#FFFFFF"
+        stroke-width="1.5"/>
+
+  <line x1="10"
+        y1="14"
+        x2="10"
+        y2="16"
+        stroke="#FFFFFF"
+        stroke-width="1.5"/>
+
+  <line x1="22"
+        y1="14"
+        x2="22"
+        y2="16"
+        stroke="#FFFFFF"
+        stroke-width="1.5"/>
+
+  <!-- Text -->
+  <text x="33"
+        y="18"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        font-weight="700"
+        fill="#FFFFFF">
+    ACTIVE DIRECTORY
+  </text>
+
+</svg>

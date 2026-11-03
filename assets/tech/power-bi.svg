@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="110"
+     height="28"
+     viewBox="0 0 110 28"
+     role="img"
+     aria-label="Power BI">
+
+  <!-- Background -->
+  <rect width="110" height="28" rx="3" fill="#F2C811"/>
+
+  <!-- Power BI-style bars -->
+  <rect x="7"
+        y="13"
+        width="4"
+        height="8"
+        rx="1"
+        fill="#242424"/>
+
+  <rect x="12"
+        y="9"
+        width="4"
+        height="12"
+        rx="1"
+        fill="#242424"/>
+
+  <rect x="17"
+        y="6"
+        width="4"
+        height="15"
+        rx="1"
+        fill="#242424"/>
+
+  <rect x="22"
+        y="10"
+        width="4"
+        height="11"
+        rx="1"
+        fill="#242424"/>
+
+  <!-- Text -->
+  <text x="34"
+        y="18"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="11"
+        font-weight="700"
+        fill="#242424">
+    POWER BI
+  </text>
+
+</svg>
