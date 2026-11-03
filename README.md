@@ -134,6 +134,10 @@ devsecops:  Secure by Design | Automate | Monitor
 
 | Purpose | Profiles |
 |---|---|
+<a href="YOUR-LINKEDIN-PROFILE">
+  <img src="./assets/linkedin.svg" alt="LinkedIn" width="32" height="32">
+</a>
+<br>
 | **Professional** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaunmonwabisiteka) |
 | **Cloud & Credentials** | [![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258FFA?style=flat&logo=microsoft&logoColor=white)](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/) |
 | **Code & Projects** | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ShaunTeka) |
