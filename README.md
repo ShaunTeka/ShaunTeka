@@ -60,13 +60,9 @@ devsecops:  Secure by Design | Automate | Monitor
  
 `KQL` `Threat Hunting` `MITRE ATT&CK` `Detection Engineering`
 
-<br>
-
 [![Microsoft Defender](https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ShaunTeka/soc-analyst-lab/tree/main/microsoft-defender-endpoint-lab)
  
 `Endpoint Security` `Detection` `Investigation` `Threat Protection`
-
-<br>
 
 ### Cloud & Identity Security
 
@@ -74,13 +70,9 @@ devsecops:  Secure by Design | Automate | Monitor
  
 `Azure` `Cloud Security` `RBAC` `NSG`
 
-<br>
-
 [![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ShaunTeka/active-directory-lab)
 
 `Active Directory` `Windows Server` `Identity` `PowerShell`
-
-<br>
 
 ### Detection & Investigation
 
