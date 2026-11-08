@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ShaunTeka/ShaunTeka/blob/main/assets/azure-profile-banner.svg" 
-       alt="Shaun Monwabisi Teka - Azure Cloud, Infrastructure and Cybersecurity" 
-       width="100%">
+  <a href="https://github.com/ShaunTeka/"><img src="https://github.com/ShaunTeka/ShaunTeka/blob/main/assets/azure-profile-banner.svg"></a>
 </p>
-
-<br>
-
 
 <p align="center">
   <a href="https://git.io/typing-svg">
