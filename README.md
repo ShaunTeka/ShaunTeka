@@ -139,8 +139,8 @@ devsecops:  Secure by Design | Automate | Monitor
   &nbsp;
   <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/Excel"><img src="./assets/tech/excel.svg" alt="Microsoft Excel" height="28"></a>
   &nbsp;
-  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/sql"><img src="./assets/tech/sql.svg" alt="SQL" height="28"></a>
-  &nbsp;
+  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/sql"><img src="https://img.shields.io/badge/MySQL-0b0d11?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" height="28"></a>
+     &nbsp;
   <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/python"><img src="./assets/tech/python.svg" alt="Python" height="28"></a>
     &nbsp;
 </p>
