@@ -98,7 +98,7 @@ devsecops:  Secure by Design | Automate | Monitor
 &nbsp;
 <a href="https://github.com/ShaunTeka/azure-cloud-portfolio/tree/main/azure-vm-deployment"><img src="./assets/tech/azure-vms.svg" alt="Azure VMs" height="28"></a>
 &nbsp;
-<a href="https://github.com/ShaunTeka/azure-cloud-portfolio/tree/main/azure-vm-deployment"><img src="./assets/tech/azure-monitor.svg" alt="Azure Monitor" height="28"></a>
+<a href="https://github.com/ShaunTeka/azure-cloud-portfolio/tree/main/azure-monitoring-lab"><img src="./assets/tech/azure-monitor.svg" alt="Azure Monitor" height="28"></a>
 &nbsp;
 <a href="https://github.com/ShaunTeka/azure-cloud-portfolio/tree/main/azure-vm-deployment"><img src="./assets/tech/windows-server.svg" alt="Windows Server" height="28"></a>
 </p>
