@@ -141,12 +141,18 @@ devsecops:  Secure by Design | Automate | Monitor
 ### Data & Analytics
 
 <p>
-  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/power-bi.svg" alt="Power BI" height="28"></a>
+  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/power-bi.svg" alt="Power BI" height="36"></a>
   &nbsp;
-  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/dax-projects"><a href=""><img src="./assets/tech/dax.svg" alt="DAX" height="28"></a>
-  &nbsp; 
+  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/dax.svg" alt="DAX" height="36"></a>
+  &nbsp;
+  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/excel.svg" alt="Microsoft Excel" height="28"></a>
+  &nbsp;
+  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/sql.svg" alt="SQL" height="28"></a>
+  &nbsp;
+  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/python.svg" alt="Python" height="28"></a>
+    &nbsp;
 </p>
-
+    
 ---
 ## 📜 Certifications
 
