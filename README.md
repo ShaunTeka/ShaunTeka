@@ -108,13 +108,13 @@ devsecops:  Secure by Design | Automate | Monitor
 ### Security & SecOps
 
 <p>
-  <img src="./assets/tech/sentinel.svg" alt="Microsoft Sentinel" height="28">
+  <a href="https://github.com/ShaunTeka/security-secops-portfolio/tree/main/microsoft-sentinel-lab"><img src="./assets/tech/sentinel.svg" alt="Microsoft Sentinel" height="28"></a>
   &nbsp;
-  <img src="./assets/tech/defender.svg" alt="Microsoft Defender" height="28">
+  <a href=""><img src="./assets/tech/defender.svg" alt="Microsoft Defender" height="28"></a>
   &nbsp;
-  <img src="./assets/tech/kql.svg" alt="KQL" height="28">
+  <a href=""><img src="./assets/tech/kql.svg" alt="KQL" height="28"></a>
   &nbsp;
-  <img src="./assets/tech/mitre-attack.svg" alt="MITRE ATT&CK" height="28">
+  <a href=""><img src="./assets/tech/mitre-attack.svg" alt="MITRE ATT&CK" height="28"></a>
    &nbsp;
 </p>
 
