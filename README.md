@@ -112,7 +112,7 @@ devsecops:  Secure by Design | Automate | Monitor
   &nbsp;
   <a href="https://github.com/ShaunTeka/security-secops-portfolio/tree/main/microsoft-defender"><img src="./assets/tech/defender.svg" alt="Microsoft Defender" height="28"></a>
   &nbsp;
-  <a href=""><img src="./assets/tech/kql.svg" alt="KQL" height="28"></a>
+  <a href="https://github.com/ShaunTeka/security-secops-portfolio/tree/main/kql-detection-lab"><img src="./assets/tech/kql.svg" alt="KQL" height="28"></a>
   &nbsp;
   <a href=""><img src="./assets/tech/mitre-attack.svg" alt="MITRE ATT&CK" height="28"></a>
    &nbsp;
