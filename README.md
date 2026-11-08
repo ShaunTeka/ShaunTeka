@@ -131,9 +131,9 @@ devsecops:  Secure by Design | Automate | Monitor
 <p>
   <a href="https://github.com/ShaunTeka/automation-devops-portfolio/tree/main/powershell-automation-lab"><img src="./assets/tech/powershell.svg" alt="PowerShell" height="28"></a>
   &nbsp;
-   <a href="https://github.com/ShaunTeka/automation-devops-portfolio/tree/main/powershell-automation-lab"><img src="./assets/tech/git.svg" alt="Git" height="28">
+   <a href="https://github.com/ShaunTeka/automation-devops-portfolio/tree/main/powershell-automation-lab"><img src="./assets/tech/git.svg" alt="Git" height="28"></a>
   &nbsp;
-   <a href="https://github.com/ShaunTeka/automation-devops-portfolio/tree/main/powershell-automation-lab"><img src="./assets/tech/github.svg" alt="GitHub" height="28"></a>
+   <a href="https://github.com/ShaunTeka/automation-devops-portfolio/tree/main/git-github-lab"><img src="./assets/tech/github.svg" alt="GitHub" height="28"></a>
   &nbsp;
    <a href="https://github.com/ShaunTeka/automation-devops-portfolio/tree/main/powershell-automation-lab"><img src="./assets/tech/azure-devops.svg" alt="Azure DevOps" height="28"></a>
 </p>
