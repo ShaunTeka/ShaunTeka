@@ -156,7 +156,7 @@ devsecops:  Secure by Design | Automate | Monitor
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/en-us/users/ShaunMonwabisiTeka/credentials/43AC9A17FCE7992B?ref=https%3a%2f%2fwww.linkedin.com%2f) |
 | Microsoft Certified: Azure AI Fundamentals (AI-900) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/en-us/users/ShaunMonwabisiTeka/credentials/3F151AB6A62159B0?ref=https%3a%2f%2fwww.linkedin.com%2f) |
 | Microsoft Certified: Azure Administrator Associate (AZ-104) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/credentials/2eaca8f4a6714847?ref=https%3A%2F%2Fwww.linkedin.com%2F) |
-| Microsoft Certified: Azure Solutions Architect Expert (AZ-305) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/training?ref=https%3A%2F%2Fwww.linkedin.com%2F&source=docs) |
+| Microsoft Certified: Azure Solutions Architect Expert (AZ-305) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/api/credentials/share/en-us/ShaunMonwabisiTeka/4B570206A578DB8B?sharingId=7B7354DA2EE57734) |
 | Microsoft Certified: DevOps Engineer Expert (AZ-400) | Microsoft | ✅ Passed | [Verify ↗](https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/training?ref=https%3A%2F%2Fwww.linkedin.com%2F&source=docs) |
 | Google Advanced Data Analytics | Google · Coursera | ✅ Passed | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/9G9QUUMAESKX)|
 | Google Business Intelligence | Google · Coursera | ✅ Passed | [Verify ↗](https://www.coursera.org/account/accomplishments/verify/HBDTHKYYXV3F)|
