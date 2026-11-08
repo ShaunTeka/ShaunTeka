@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="36" viewBox="0 0 120 36">
-  <rect width="120" height="36" rx="4" fill="#3776AB"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="95" height="30" viewBox="0 0 95 30">
+  <rect width="95" height="30" rx="2" fill="#11151A"/>
 
-  <circle cx="19" cy="13" r="7" fill="#FFD43B"/>
-  <circle cx="19" cy="23" r="7" fill="#FFFFFF"/>
-  <circle cx="17" cy="11" r="1.5" fill="#3776AB"/>
-  <circle cx="21" cy="25" r="1.5" fill="#3776AB"/>
+  <circle cx="15" cy="12" r="6" fill="#3776AB"/>
+  <circle cx="15" cy="18" r="6" fill="#FFD43B"/>
 
-  <text x="34" y="23"
-        font-family="Arial, sans-serif" font-size="13"
-        font-weight="bold" fill="#FFFFFF">PYTHON</text>
+  <text x="29" y="19.5"
+        font-family="Arial, sans-serif"
+        font-size="12"
+        font-weight="600"
+        fill="#FFFFFF">Python</text>
 </svg>
