@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
+  <a href="https://git.io/typing-svg](https://github.com/ShaunTeka/">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=0078D4&center=true&vCenter=true&width=650&lines=Azure+Cloud+%26+Infrastructure;Microsoft+Entra+ID+%26+RBAC;Active+Directory+%26+PowerShell;Cloud+Networking+%26+Security;Cybersecurity+%26+SOC+Projects;Building+Hands-On+Cloud+Projects"
          alt="Typing SVG">
   </a>
