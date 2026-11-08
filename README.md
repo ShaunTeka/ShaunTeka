@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shaunmonwabisiteka"><img src="./assets/linkedin.svg" alt="LinkedIn" height="28" align="middle"></a>&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/"><img src="./assets/microsoft-learn.svg" alt="Microsoft Learn" height="28" align="middle"></a>&nbsp;&nbsp;
-  <a href="https://github.com/ShaunTeka"><img src="https://img.shields.io/badge/GitHub-0b0d11?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" height="28" align="middle"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/ShaunTeka"><img src="https://img.shields.io/badge/GitHub-0b0d11?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" height="28" align="middle"/></a>&nbsp;
   <a href="mailto:shaunmonwabisiteka@gmail.com"><img src="./assets/email.svg" alt="Email" height="28" align="middle"></a>
 </p>
 
@@ -48,24 +48,6 @@ devsecops:  Secure by Design | Automate | Monitor
 
 ---
 ## 🚀 Featured Projects
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-0b0d11?style=flat-square&logo=microsoftazure&logoColor=0078D4" alt="Microsoft Azure" />
-
-  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0b0d11?style=flat-square&logo=microsoftentra&logoColor=7B61FF" alt="Microsoft Entra ID" />
-
-  <img src="https://img.shields.io/badge/Windows%20Server-0b0d11?style=flat-square&logo=windows&logoColor=00A4EF" alt="Windows Server" />
-
-  <img src="https://img.shields.io/badge/Active%20Directory-0b0d11?style=flat-square&logo=windows&logoColor=0078D4" alt="Active Directory" />
-
-  <img src="https://img.shields.io/badge/PowerShell-0b0d11?style=flat-square&logo=powershell&logoColor=5391FE" alt="PowerShell" />
-
-  <img src="https://img.shields.io/badge/Azure%20DevOps-0b0d11?style=flat-square&logo=azuredevops&logoColor=0078D7" alt="Azure DevOps" />
-
-  <img src="https://img.shields.io/badge/Git-0b0d11?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-
-  <img src="https://img.shields.io/badge/GitHub-0b0d11?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
-
-  <img src="https://img.shields.io/badge/Docker-0b0d11?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
 
 ### Security Operations
 
@@ -190,7 +172,7 @@ devsecops:  Secure by Design | Automate | Monitor
 |:---|:---|
 | **Career** | <a href="https://www.linkedin.com/in/shaunmonwabisiteka"><img src="./assets/linkedin.svg" alt="LinkedIn" height="20"></a> |
 | **Cloud & Credentials** | <a href="https://learn.microsoft.com/en-us/users/shaunmonwabisiteka/"><img src="./assets/microsoft-learn.svg" alt="Microsoft Learn" height="20"></a> |
-| **Projects** | <a href="https://github.com/ShaunTeka"><img src="./assets/github.svg" alt="GitHub" height="20"></a> |
+| **Projects** | <a href="https://github.com/ShaunTeka"><img src="https://img.shields.io/badge/GitHub-0b0d11?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" height="28" align="middle"/></a>&nbsp;</a> |
 | **Cybersecurity** | <a href="https://tryhackme.com/p/shaunmonwabisiteka"><img src="./assets/tryhackme.svg" alt="TryHackMe" height="20"></a> |
 | **Contact** | <a href="mailto:shaunmonwabisiteka@gmail.com"><img src="./assets/email.svg" alt="Email" height="20"></a> |
 
