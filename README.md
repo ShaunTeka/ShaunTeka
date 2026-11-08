@@ -141,9 +141,9 @@ devsecops:  Secure by Design | Automate | Monitor
 ### Data & Analytics
 
 <p>
-  <img src="./assets/tech/power-bi.svg" alt="Power BI" height="28">
+  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/power-bi.svg" alt="Power BI" height="28"></a>
   &nbsp;
-  <img src="./assets/tech/dax.svg" alt="DAX" height="28">
+  <a href=""><img src="./assets/tech/dax.svg" alt="DAX" height="28"></a>
 </p>
 
 ---
