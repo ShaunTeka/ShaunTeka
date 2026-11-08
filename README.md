@@ -179,3 +179,5 @@ devsecops:  Secure by Design | Automate | Monitor
 ---
 > “Building real-world cloud, infrastructure and cybersecurity skills through hands-on experience, continuous learning, and practical operations exposure.”
 
+ <p align="center"><sub>© 2026 Shaun Monwabisi Teka </sub></p>
+
