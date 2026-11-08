@@ -110,7 +110,7 @@ devsecops:  Secure by Design | Automate | Monitor
   &nbsp;
   <img src="./assets/tech/azure-rbac.svg" alt="Azure RBAC" height="28">
   &nbsp;
-  <img src="./assets/tech/active-directory.svg" alt="Active Directory" height="28">
+  <a href="https://github.com/ShaunTeka/azure-cloud-portfolio/tree/main/active-directory-gpo-lab"><img src="./assets/tech/active-directory.svg" alt="Active Directory" height="28"></a>
 </p>
 
 ### Security & SecOps
