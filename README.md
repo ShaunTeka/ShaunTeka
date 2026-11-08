@@ -145,7 +145,7 @@ devsecops:  Secure by Design | Automate | Monitor
   &nbsp;
   <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/dax.svg" alt="DAX" height="36"></a>
   &nbsp;
-  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/excel.svg" alt="Microsoft Excel" height="28"></a>
+  <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/Excel"><img src="./assets/tech/excel.svg" alt="Microsoft Excel" height="28"></a>
   &nbsp;
   <a href="https://github.com/ShaunTeka/data-analytics-portfolio/tree/main/power-bi-projects"><img src="./assets/tech/sql.svg" alt="SQL" height="28"></a>
   &nbsp;
