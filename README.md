@@ -36,7 +36,7 @@
 
 
 
-Azure, infrastructure, and cybersecurity professional focused on **secure cloud engineering, automation, identity, and DevSecOps**.
+Azure, infrastructure, and cybersecurity professional focused on **secure cloud engineering, automation, identity, and DevOps**.
 ```yaml
 
 cloud:      Azure | VMs | VNets | NSGs | Azure Monitor
