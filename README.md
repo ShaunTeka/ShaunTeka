@@ -32,7 +32,7 @@
 <br>
  
 ---
-## 👨🏽‍💻 About Me
+## 01 — About
 
 
 
@@ -47,7 +47,8 @@ devsecops:  Secure by Design | Automate | Monitor
 ```
 
 ---
-## 🚀 Featured Projects
+## 02  — Featured Projects
+
 
 ### Security Operations
 
@@ -76,7 +77,7 @@ devsecops:  Secure by Design | Automate | Monitor
 `SIEM` `Log Analysis` `Incident Investigation` `Threat Hunting`
 
 ---
-## 🧰 Technical Stack
+## 03  — Technical Stack
 
 ### Cloud & Infrastructure
 
@@ -141,7 +142,7 @@ devsecops:  Secure by Design | Automate | Monitor
 </p>
     
 ---
-## 📜 Certifications
+## 04  — Certifications
 
 7 verified credentials across cloud, AI, architecture, DevOps, data analytics, and business intelligence — each linked directly to its issuer verification.
 
@@ -157,7 +158,7 @@ devsecops:  Secure by Design | Automate | Monitor
 
 
 ---
-## 🎓 Education
+## 05  — Education
 
 | Year Of Completion | Institution | Qualification / Program |
 |---|---|---|
@@ -166,7 +167,7 @@ devsecops:  Secure by Design | Automate | Monitor
 | 2026 | University of South Africa | Bachelor of Commerce in Law |
 
 ---
-## 📫 Connect With Me
+## 06  — Connect With Me
 
 | Purpose | Profiles |
 |:---|:---|
